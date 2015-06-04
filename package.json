@@ -1,0 +1,35 @@
+{
+  "name": "require-deps",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Generate require statements for dependencies",
+  "license": "MIT",
+  "repository": "bendrucker/require-deps",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "require",
+    "dependencies",
+    "string",
+    "statement"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "pff": "~1.0.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
