@@ -1,7 +1,7 @@
 {
   "name": "require-deps",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate require statements for dependencies",
   "license": "MIT",
   "repository": "bendrucker/require-deps",
