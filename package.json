@@ -22,9 +22,10 @@
     "string",
     "statement"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "pff": "~1.0.0"
+  },
   "devDependencies": {
-    "pff": "~1.0.0",
     "standard": "^4.0.0",
     "tape": "^4.0.0"
   },
