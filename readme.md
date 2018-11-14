@@ -1,4 +1,4 @@
-# require-deps [![Build Status](https://travis-ci.org/bendrucker/require-deps.svg?branch=master)](https://travis-ci.org/bendrucker/require-deps)
+# require-deps [![Build Status](https://travis-ci.org/bendrucker/require-deps.svg?branch=master)](https://travis-ci.org/bendrucker/require-deps) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/require-deps.svg)](https://greenkeeper.io/)
 
 > Generate require statements for one or more dependencies
 
